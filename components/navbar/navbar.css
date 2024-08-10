@@ -1,0 +1,31 @@
+.logo{
+    height: 2.25rem;
+    width: 4.75rem;
+}
+.search,.cart{
+    height: 1.45rem;
+    width: 1.5rem;
+}
+.section{
+    height: 10vh;
+    background-color: #272C34;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20rem 0 5rem;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    gap: 4.25rem;
+    font-size: 1.4rem;
+    font-weight: 10;
+    color: white;
+    padding-top: 2.25rem;
+}
+#home{
+    color: #EBCA1B;
+}
+.icons{
+    display: flex;
+    gap: 1rem;
+}
